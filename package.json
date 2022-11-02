@@ -1,0 +1,11 @@
+{
+  "name": "graphappbase",
+  "version": "1.0.0",
+  "description": "This component stitches together the `<DriverProvider />`, `<DesktopIntegration />` and connection handling functionality into one easy-to-use component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
